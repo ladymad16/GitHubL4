@@ -65,3 +65,9 @@ button {
   padding: 8px;
   border: none;
 }
+
+#by-line {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
