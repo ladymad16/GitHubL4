@@ -1,0 +1,67 @@
+.appface {
+  position: sticky;
+  margin: auto;
+  display: block;
+  width: 450px;
+  text-align: center;
+  color: rgb(73, 73, 73);
+  padding-top: 40px;
+  border: 5px;
+}
+
+h1 {
+  padding: 20px;
+  font-size: 45px;
+  border: solid;
+  border-color: rgb(177, 177, 177);
+  margin: 30px;
+}
+h3 {
+  padding: 10px;
+  font-size: 35px;
+  border: dashed;
+  border-color: rgb(177, 177, 177);
+  margin: 40px;
+}
+h5 {
+  font-size: 50px;
+}
+.date-time {
+  padding: 0px;
+  font-size: 24px;
+  margin: auto;
+}
+.weekday {
+  font-size: 20px;
+}
+.current-temp {
+  font-size: 98px;
+  padding-top: 25px;
+}
+.temperature {
+  font-size: 25px;
+}
+i {
+  font-size: 20px;
+  padding: 10px;
+}
+input {
+  border-width: 1px;
+  border-color: #b1b1b1;
+  width: 100px;
+}
+h4 {
+  font-size: 100px;
+  display: block;
+  margin: 0 auto;
+  width: 240px;
+  border: solid;
+  border-color: rgb(223, 35, 35);
+  border-radius: 100%;
+  padding: 50px;
+}
+button {
+  border-radius: 100px;
+  padding: 8px;
+  border: none;
+}
